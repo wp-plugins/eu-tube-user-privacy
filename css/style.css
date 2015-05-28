@@ -1,0 +1,16 @@
+.ema-youtube-nocookie-locales p {
+  background: #efefef;
+  border-bottom: 1px solid #fff;
+  padding: 10px;
+}
+
+.ema-youtube-nocookie-flag {
+  padding-left: 10px;
+}
+
+.ema-youtube-nocookie-locales label {
+  display: inline-block;
+  font-weight: 700;
+  padding-left: 10px;
+  padding-right: 10px;
+}
